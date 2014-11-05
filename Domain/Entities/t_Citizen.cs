@@ -12,5 +12,6 @@ namespace Data.Models
         public int isnotMentalRetarded { get; set; }
         public int isnotMilitary { get; set; }
         public int numCin { get; set; }
+        //panda team
     }
 }
